@@ -12,9 +12,9 @@ class lose extends Phaser.Scene {
     preload () {
         //-- ------------x---------------  Carga de imagenes ------------------------x------------------
         this.scale.startFullscreen;
-        this.load.image("backgroundLose", "./images/backLose.png");
-        this.load.image("play", "./images/playButton.png");
-        this.load.atlas("playerLose", "./images/agentHurt.png", "./images/agentHurt.json");
+        this.load.image("backgroundLose", "images/backLose.png");
+        this.load.image("play", "images/playButton.png");
+        this.load.atlas("playerLose", "images/agentHurt.png", "images/agentHurt.json");
     }
 
     create() {

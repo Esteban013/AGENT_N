@@ -12,10 +12,10 @@ class level3 extends Phaser.Scene {
     }
     preload () {
         //-- ------------x---------------  Carga de imagenes ------------------------x------------------
-        this.load.image("background4", "./images/back3.jpg");
-        this.load.atlas("player", "./images/agent.png", "./images/agent.json");
-        this.load.image("pipe", "./images/pipe.png");
-        this.load.image("up3", "./images/up3.png");
+        this.load.image("background4", "images/back3.jpg");
+        this.load.atlas("player", "images/agent.png", "images/agent.json");
+        this.load.image("pipe", "images/pipe.png");
+        this.load.image("up3", "images/up3.png");
     }
     
     create() {

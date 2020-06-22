@@ -12,8 +12,8 @@ class menu extends Phaser.Scene {
     preload () {
         //-- ------------x---------------  Carga de imagenes ------------------------x------------------ 
         //Se cargan las imagenes necesarias en este caso, la imagen de fondo y el boton play
-        this.load.image("background", "../images/backMenu.jpg");
-        this.load.image("playMenu", "../images/playMenu.png");
+        this.load.image("background", "images/backMenu.jpg");
+        this.load.image("playMenu", "images/playMenu.png");
     }
 
     create() {
