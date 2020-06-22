@@ -20,11 +20,11 @@ var config = {
 }
 //-- ------------x--------------- Escenas ------------------------x------------------ 
 //se agregan las escenas del juego y creación del juego
-var game = new Phaser.Game(config);
-game.scene.add("win",win);
+var game = new Phaser.Game(config); 
+game.scene.add("menu",menu);
+game.scene.add("level1",level1); 
 game.scene.add("lose",lose);
+game.scene.add("level2",level2);  
 game.scene.add("level3",level3);
-game.scene.add("level2",level2);
-game.scene.add("level1",level1);
-game.scene.add("menu",menu);    
+game.scene.add("win",win);    
 game.scene.start("menu");

@@ -1,4 +1,9 @@
 //-- ------------x--------------- MENU ------------------------x------------------ 
+//-- ------------x--------------- Variables Globales ------------------------x------------------ 
+//Estas variables se estaran utilizando a lo largo de las diferentes escenas
+var backgroundImg
+var buttonPlay
+
 class menu extends Phaser.Scene {
 
     constructor(){
@@ -7,8 +12,8 @@ class menu extends Phaser.Scene {
     preload () {
         //-- ------------x---------------  Carga de imagenes ------------------------x------------------ 
         //Se cargan las imagenes necesarias en este caso, la imagen de fondo y el boton play
-        this.load.image("background", "./images/backMenu.jpg");
-        this.load.image("playMenu", "images/playMenu.png");
+        this.load.image("background", "../images/backMenu.jpg");
+        this.load.image("playMenu", "../images/playMenu.png");
     }
 
     create() {
@@ -30,7 +35,7 @@ class menu extends Phaser.Scene {
     play() {
         //se encarga de para la escena actual y continuar con el primer nivel del juego 
         this.scene.stop("menu");
-        this.scene.start("level1");
+        this.scene.start("level3");
     }
 
 }
