@@ -9,7 +9,7 @@ class win extends Phaser.Scene {
     preload () {
         //-- ------------x---------------  Carga de imagenes ------------------------x------------------
         this.scale.startFullscreen;
-        this.load.image("backgroundWin", "images/backWin.png");
+        this.load.image("backgroundWin", "images/backWin.PNG");
         this.load.image("play", "images/playButton.png");
         this.load.atlas("playerWin", "images/agentWin.png", "images/agentWin.json");
     }

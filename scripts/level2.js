@@ -19,7 +19,7 @@ class level2 extends Phaser.Scene {
     preload () {
         //-- ------------x---------------  Carga de imagenes ------------------------x------------------ 
         this.load.image("background3", "images/back2.jpg");
-        this.load.image("ground2", "images/platform.png");
+        this.load.image("ground2", "images/platform.PNG");
         this.load.atlas("player", "images/agent.png", "./images/agent.json");
         this.load.image("dessert", "images/dessert.png");
         this.load.image("bomb", "images/bomb.png");

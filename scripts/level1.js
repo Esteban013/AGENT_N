@@ -31,7 +31,7 @@ class level1 extends Phaser.Scene {
     preload () {
         //-- ------------x---------------  Carga de imagenes ------------------------x------------------ 
         this.load.image("background2", "images/back1.jpg");
-        this.load.image("ground", "images/ground2.png");
+        this.load.image("ground", "images/ground2.PNG");
         this.load.image("bullet", "images/bullet.png");
         this.load.atlas("player", "images/agent.png", "images/agent.json"); //archivo que permite la creacion del jugador a partir de diferentes png
         this.load.atlas("book", "images/book.png", "images/book.json"); //archivo que permite la creacion del libro a partir de diferentes png
