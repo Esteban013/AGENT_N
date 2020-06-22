@@ -1,0 +1,608 @@
+{
+	"textures": [
+		{
+			"image": "agent.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2769,
+				"h": 1820
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "1_police_attack_Attack_000_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 499,
+						"h": 604
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 1,
+						"w": 450,
+						"h": 600
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 450,
+						"h": 600
+					}
+				},
+				{
+					"filename": "1_police_attack_Attack_000_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 499,
+						"h": 604
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 1,
+						"w": 446,
+						"h": 601
+					},
+					"frame": {
+						"x": 1,
+						"y": 603,
+						"w": 446,
+						"h": 601
+					}
+				},
+				{
+					"filename": "1_police_attack_Attack_000_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 499,
+						"h": 604
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 1,
+						"w": 438,
+						"h": 601
+					},
+					"frame": {
+						"x": 1,
+						"y": 1206,
+						"w": 438,
+						"h": 601
+					}
+				},
+				{
+					"filename": "1_police_Jump_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 368,
+						"h": 924
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 41,
+						"w": 357,
+						"h": 598
+					},
+					"frame": {
+						"x": 453,
+						"y": 1,
+						"w": 357,
+						"h": 598
+					}
+				},
+				{
+					"filename": "1_police_Jump_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 368,
+						"h": 924
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 135,
+						"w": 337,
+						"h": 602
+					},
+					"frame": {
+						"x": 812,
+						"y": 1,
+						"w": 337,
+						"h": 602
+					}
+				},
+				{
+					"filename": "1_police_Jump_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 368,
+						"h": 924
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 0,
+						"w": 350,
+						"h": 581
+					},
+					"frame": {
+						"x": 1151,
+						"y": 1,
+						"w": 350,
+						"h": 581
+					}
+				},
+				{
+					"filename": "1_police_Run_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 335,
+						"h": 615
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 21,
+						"w": 327,
+						"h": 594
+					},
+					"frame": {
+						"x": 1503,
+						"y": 1,
+						"w": 327,
+						"h": 594
+					}
+				},
+				{
+					"filename": "1_police_Run_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 335,
+						"h": 615
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 18,
+						"w": 326,
+						"h": 589
+					},
+					"frame": {
+						"x": 1832,
+						"y": 1,
+						"w": 326,
+						"h": 589
+					}
+				},
+				{
+					"filename": "1_police_Jump_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 368,
+						"h": 924
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 79,
+						"w": 315,
+						"h": 590
+					},
+					"frame": {
+						"x": 2160,
+						"y": 1,
+						"w": 315,
+						"h": 590
+					}
+				},
+				{
+					"filename": "1_police_Run_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 335,
+						"h": 615
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 10,
+						"w": 291,
+						"h": 597
+					},
+					"frame": {
+						"x": 2477,
+						"y": 1,
+						"w": 291,
+						"h": 597
+					}
+				},
+				{
+					"filename": "1_police_Idle_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 264,
+						"h": 615
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 4,
+						"w": 245,
+						"h": 608
+					},
+					"frame": {
+						"x": 441,
+						"y": 1206,
+						"w": 245,
+						"h": 608
+					}
+				},
+				{
+					"filename": "1_police_attack_Attack_000_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 499,
+						"h": 604
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 1,
+						"w": 247,
+						"h": 600
+					},
+					"frame": {
+						"x": 449,
+						"y": 603,
+						"w": 247,
+						"h": 600
+					}
+				},
+				{
+					"filename": "1_police_Jump_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 368,
+						"h": 924
+					},
+					"spriteSourceSize": {
+						"x": 78,
+						"y": 244,
+						"w": 288,
+						"h": 595
+					},
+					"frame": {
+						"x": 698,
+						"y": 605,
+						"w": 288,
+						"h": 595
+					}
+				},
+				{
+					"filename": "1_police_Idle_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 264,
+						"h": 615
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 5,
+						"w": 245,
+						"h": 609
+					},
+					"frame": {
+						"x": 988,
+						"y": 605,
+						"w": 245,
+						"h": 609
+					}
+				},
+				{
+					"filename": "1_police_Jump_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 368,
+						"h": 924
+					},
+					"spriteSourceSize": {
+						"x": 101,
+						"y": 310,
+						"w": 246,
+						"h": 603
+					},
+					"frame": {
+						"x": 688,
+						"y": 1216,
+						"w": 246,
+						"h": 603
+					}
+				},
+				{
+					"filename": "1_police_Idle_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 264,
+						"h": 615
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 4,
+						"w": 245,
+						"h": 611
+					},
+					"frame": {
+						"x": 1235,
+						"y": 584,
+						"w": 245,
+						"h": 611
+					}
+				},
+				{
+					"filename": "1_police_Run_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 335,
+						"h": 615
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 16,
+						"w": 276,
+						"h": 596
+					},
+					"frame": {
+						"x": 1482,
+						"y": 597,
+						"w": 276,
+						"h": 596
+					}
+				},
+				{
+					"filename": "1_police_Run_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 335,
+						"h": 615
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 24,
+						"w": 273,
+						"h": 585
+					},
+					"frame": {
+						"x": 936,
+						"y": 1216,
+						"w": 273,
+						"h": 585
+					}
+				},
+				{
+					"filename": "1_police_Idle_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 264,
+						"h": 615
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 5,
+						"w": 244,
+						"h": 610
+					},
+					"frame": {
+						"x": 1760,
+						"y": 597,
+						"w": 244,
+						"h": 610
+					}
+				},
+				{
+					"filename": "1_police_Idle_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 264,
+						"h": 615
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 244,
+						"h": 612
+					},
+					"frame": {
+						"x": 2006,
+						"y": 593,
+						"w": 244,
+						"h": 612
+					}
+				},
+				{
+					"filename": "1_police_Idle_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 264,
+						"h": 615
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 3,
+						"w": 245,
+						"h": 611
+					},
+					"frame": {
+						"x": 2252,
+						"y": 600,
+						"w": 245,
+						"h": 611
+					}
+				},
+				{
+					"filename": "1_police_Idle_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 264,
+						"h": 615
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 3,
+						"w": 245,
+						"h": 610
+					},
+					"frame": {
+						"x": 2499,
+						"y": 600,
+						"w": 245,
+						"h": 610
+					}
+				},
+				{
+					"filename": "1_police_Jump_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 368,
+						"h": 924
+					},
+					"spriteSourceSize": {
+						"x": 105,
+						"y": 328,
+						"w": 246,
+						"h": 593
+					},
+					"frame": {
+						"x": 1211,
+						"y": 1216,
+						"w": 246,
+						"h": 593
+					}
+				},
+				{
+					"filename": "1_police_Idle_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 264,
+						"h": 615
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 4,
+						"w": 244,
+						"h": 609
+					},
+					"frame": {
+						"x": 1459,
+						"y": 1197,
+						"w": 244,
+						"h": 609
+					}
+				},
+				{
+					"filename": "1_police_Jump_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 368,
+						"h": 924
+					},
+					"spriteSourceSize": {
+						"x": 93,
+						"y": 206,
+						"w": 252,
+						"h": 597
+					},
+					"frame": {
+						"x": 1705,
+						"y": 1209,
+						"w": 252,
+						"h": 597
+					}
+				},
+				{
+					"filename": "1_police_Run_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 264,
+						"h": 615
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 4,
+						"w": 245,
+						"h": 608
+					},
+					"frame": {
+						"x": 1959,
+						"y": 1209,
+						"w": 245,
+						"h": 608
+					}
+				},
+				{
+					"filename": "1_police_attack_Attack_000_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 499,
+						"h": 604
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 2,
+						"w": 245,
+						"h": 600
+					},
+					"frame": {
+						"x": 2206,
+						"y": 1213,
+						"w": 245,
+						"h": 600
+					}
+				},
+				{
+					"filename": "1_police_Run_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 335,
+						"h": 615
+					},
+					"spriteSourceSize": {
+						"x": 72,
+						"y": 17,
+						"w": 255,
+						"h": 581
+					},
+					"frame": {
+						"x": 2453,
+						"y": 1213,
+						"w": 255,
+						"h": 581
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:fdba1bc574c73375ecbf6757debd8025:bef4600e44c450bda2061ab426651aee:dff879538e28d64252eb5d17a9a88123$"
+	}
+}

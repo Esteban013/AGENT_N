@@ -1,0 +1,209 @@
+{
+	"textures": [
+		{
+			"image": "agentHurt.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1834,
+				"h": 3880
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "1_police_Hurt_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1193,
+						"h": 1335
+					},
+					"spriteSourceSize": {
+						"x": 244,
+						"y": 342,
+						"w": 907,
+						"h": 866
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 907,
+						"h": 866
+					}
+				},
+				{
+					"filename": "1_police_Hurt_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1193,
+						"h": 1335
+					},
+					"spriteSourceSize": {
+						"x": 183,
+						"y": 66,
+						"w": 680,
+						"h": 1137
+					},
+					"frame": {
+						"x": 910,
+						"y": 1,
+						"w": 680,
+						"h": 1137
+					}
+				},
+				{
+					"filename": "1_police_Hurt_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1193,
+						"h": 1335
+					},
+					"spriteSourceSize": {
+						"x": 273,
+						"y": 189,
+						"w": 711,
+						"h": 1029
+					},
+					"frame": {
+						"x": 1,
+						"y": 869,
+						"w": 711,
+						"h": 1029
+					}
+				},
+				{
+					"filename": "1_police_Hurt_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1193,
+						"h": 1335
+					},
+					"spriteSourceSize": {
+						"x": 300,
+						"y": 134,
+						"w": 631,
+						"h": 1086
+					},
+					"frame": {
+						"x": 714,
+						"y": 1140,
+						"w": 631,
+						"h": 1086
+					}
+				},
+				{
+					"filename": "1_police_Hurt_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1193,
+						"h": 1335
+					},
+					"spriteSourceSize": {
+						"x": 311,
+						"y": 4,
+						"w": 486,
+						"h": 1217
+					},
+					"frame": {
+						"x": 1347,
+						"y": 1140,
+						"w": 486,
+						"h": 1217
+					}
+				},
+				{
+					"filename": "1_police_Hurt_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1193,
+						"h": 1335
+					},
+					"spriteSourceSize": {
+						"x": 320,
+						"y": 95,
+						"w": 542,
+						"h": 1124
+					},
+					"frame": {
+						"x": 1,
+						"y": 1900,
+						"w": 542,
+						"h": 1124
+					}
+				},
+				{
+					"filename": "1_police_Hurt_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1193,
+						"h": 1335
+					},
+					"spriteSourceSize": {
+						"x": 343,
+						"y": 69,
+						"w": 526,
+						"h": 1158
+					},
+					"frame": {
+						"x": 545,
+						"y": 2228,
+						"w": 526,
+						"h": 1158
+					}
+				},
+				{
+					"filename": "1_police_Hurt_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1193,
+						"h": 1335
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 818,
+						"w": 1178,
+						"h": 491
+					},
+					"frame": {
+						"x": 1,
+						"y": 3388,
+						"w": 1178,
+						"h": 491
+					}
+				},
+				{
+					"filename": "1_police_Hurt_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1193,
+						"h": 1335
+					},
+					"spriteSourceSize": {
+						"x": 259,
+						"y": 26,
+						"w": 508,
+						"h": 1192
+					},
+					"frame": {
+						"x": 1181,
+						"y": 2359,
+						"w": 508,
+						"h": 1192
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:b2cb9b6ef6ae2ba327ad711326c9a8dd:ef49e865598104c64c7457b50562a451:61938ad07d9891b4dbd3dcb1e3936287$"
+	}
+}

@@ -1,0 +1,146 @@
+{
+	"textures": [
+		{
+			"image": "agentWin.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1751,
+				"h": 3599
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "1_police_attack_Attack3_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 982,
+						"h": 1208
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 6,
+						"w": 920,
+						"h": 1195
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 920,
+						"h": 1195
+					}
+				},
+				{
+					"filename": "1_police_attack_Attack3_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 982,
+						"h": 1208
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 4,
+						"w": 490,
+						"h": 1197
+					},
+					"frame": {
+						"x": 923,
+						"y": 1,
+						"w": 490,
+						"h": 1197
+					}
+				},
+				{
+					"filename": "1_police_attack_Attack3_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 982,
+						"h": 1208
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 4,
+						"w": 889,
+						"h": 1196
+					},
+					"frame": {
+						"x": 1,
+						"y": 1198,
+						"w": 889,
+						"h": 1196
+					}
+				},
+				{
+					"filename": "1_police_attack_Attack3_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 982,
+						"h": 1208
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 5,
+						"w": 486,
+						"h": 1197
+					},
+					"frame": {
+						"x": 892,
+						"y": 1200,
+						"w": 486,
+						"h": 1197
+					}
+				},
+				{
+					"filename": "1_police_attack_Attack3_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 982,
+						"h": 1208
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 4,
+						"w": 881,
+						"h": 1198
+					},
+					"frame": {
+						"x": 1,
+						"y": 2396,
+						"w": 881,
+						"h": 1198
+					}
+				},
+				{
+					"filename": "1_police_attack_Attack3_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 982,
+						"h": 1208
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 4,
+						"w": 866,
+						"h": 1199
+					},
+					"frame": {
+						"x": 884,
+						"y": 2399,
+						"w": 866,
+						"h": 1199
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:2e6cc42ee5c420c7cad7b82b0c15b469:591dba31067a0f5ef395a27a3ba24dde:8e1f1ff72a504802e5d3e05e42e73d69$"
+	}
+}
