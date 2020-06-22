@@ -35,7 +35,7 @@ class menu extends Phaser.Scene {
     play() {
         //se encarga de para la escena actual y continuar con el primer nivel del juego 
         this.scene.stop("menu");
-        this.scene.start("level3");
+        this.scene.start("level1");
     }
 
 }
